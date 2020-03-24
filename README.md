@@ -3,9 +3,9 @@
 ### To Do
 - [x] React Router
 - [x] Styled Components
-- [ ] `useContext`
-- [ ] `useRef`
-- [ ] Component Libraries
+- [x] `useContext`
+- [x] `useRef`
+- [x] Component Libraries
 
 
 
